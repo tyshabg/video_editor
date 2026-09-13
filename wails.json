@@ -1,0 +1,17 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "Longcut",
+  "outputfilename": "Longcut",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Longcut"
+  },
+  "info": {
+    "productName": "Longcut",
+    "productVersion": "0.1.0",
+    "comments": "Longplay segmentation and narrative scoring"
+  }
+}

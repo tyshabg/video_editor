@@ -1,0 +1,8 @@
+bin/
+*.db
+*.db-wal
+*.db-shm
+frontend/node_modules/
+frontend/dist/
+build/bin/
+.idea/
